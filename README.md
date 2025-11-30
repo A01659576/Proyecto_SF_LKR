@@ -19,24 +19,17 @@ El proyecto utiliza Python.
 * Predecir demanda en el corto y mediano plazo.
   
 
-
-'m
+<pre>
 Proyecto-Patrones-Ventas/
-│
 ├── data_raw/              # Datos originales
-├── notebooks/             # EDA, clustering y modelado (Jupyter o Rmd)
+├── notebooks/             # EDA, clustering y modelado
 ├── reports/
-│   ├── documento_tecnico.pdf
+│   └── documento_tecnico.pdf
 ├── presentation/          # Presentación ejecutiva
-│
 ├── requirements.txt       # Librerías para Python
 ├── README.md              # Este documento
 └── LICENSE                # Tipo de licencia (MIT sugerida)
-
-'
-
-
-
+</pre>
 
 
 
