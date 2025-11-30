@@ -20,7 +20,7 @@ El proyecto utiliza Python.
   
 
 
-
+'m
 Proyecto-Patrones-Ventas/
 │
 ├── data_raw/              # Datos originales
@@ -33,7 +33,7 @@ Proyecto-Patrones-Ventas/
 ├── README.md              # Este documento
 └── LICENSE                # Tipo de licencia (MIT sugerida)
 
-
+'
 
 
 
