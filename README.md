@@ -21,7 +21,7 @@ El proyecto utiliza Python.
 
 
 
- Proyecto-Patrones-Ventas/
+Proyecto-Patrones-Ventas/
 │
 ├── data_raw/              # Datos originales
 ├── notebooks/             # EDA, clustering y modelado (Jupyter o Rmd)
@@ -32,6 +32,7 @@ El proyecto utiliza Python.
 ├── requirements.txt       # Librerías para Python
 ├── README.md              # Este documento
 └── LICENSE                # Tipo de licencia (MIT sugerida)
+
 
 
 
