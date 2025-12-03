@@ -32,6 +32,8 @@ Proyecto-Patrones-Ventas/
 </pre>
 
 
+# Nota
+Para correr el código se debe de abrir en algún compilador, ya que contiene widgets.
 
 
 
